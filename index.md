@@ -51,6 +51,7 @@ The goal of the meeting is to bring together software engineering, performance a
 - Kindly contribute to the meeting notes in this [folder](https://drive.google.com/drive/folders/1WmJDlW6Zuz8PfGHXixPbiIDBwAZeUZR6?usp=sharing).
 
 ### Participants (in alphabetical order)
+
 | Name                        | Organization                                             |
 | --------------------------- | -------------------------------------------------------- |
 | Anas Bouziane               | Polytechnique Montréal                                   |
