@@ -17,22 +17,22 @@
       <i>Polytechnique Montréal</i>
     </td>
     <td align="center">
-      <img src="https://github.com" width="100px;" alt="Marin Litoiu"/><br />
+      <img src="assets/MarinLitoiu.png" width="100px;" alt="Marin Litoiu"/><br />
       <b>Marin Litoiu</b><br />
       <i>York University</i>
     </td>
     <td align="center">
-      <img src="https://github.com" width="100px;" alt="Lei Ma"/><br />
+      <img src="assets/LeiMa.jpeg" width="100px;" alt="Lei Ma"/><br />
       <b>Lei Ma</b><br />
       <i>University of Tokyo</i>
     </td>
     <td align="center">
-      <img src="https://github.com" width="100px;" alt="Weiyi Shang"/><br />
+      <img src="assets/WeiyiShang.jpg" width="100px;" alt="Weiyi Shang"/><br />
       <b>Weiyi Shang</b><br />
       <i>University of Waterloo</i>
     </td>
     <td align="center">
-      <img src="https://github.com" width="100px;" alt="Heng Li"/><br />
+      <img src="assets/LucaTraini.jpg" width="100px;" alt="Heng Li"/><br />
       <b>Luca Traini</b><br />
       <i>University of L’Aquila</i>
     </td>
