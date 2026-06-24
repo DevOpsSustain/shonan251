@@ -46,5 +46,7 @@ The broad influence of Artificial Intelligence (AI) and Machine Learning (ML) ha
 
 The goal of the meeting is to bring together software engineering, performance and AI experts from academia and industry, featuring and taking a special focus on the sustainability of intelligent systems, to discuss how to design new engineering practices, especially for intelligent systems that would allow for effective engineering of an AI-based system in a more energy-efficient way. The long-term goal is to make the activities across the whole development lifecycle of intelligent systems sustainable (Green Intelligent Systems Engineering) as it is nowadays for traditional software. The community of AIWare and green software has grown rapidly in the past few years, with some early-stage results by researchers around the world. We envision a meeting that gathers the world-leading researchers and industry practitioners who have achieved important results over the past few years. The meeting will enable further exchange of state-of-the-art ideas and practices and techniques, promote sustainability as an important research direction, and emphasize its potential industrial applications, thereby contributing to the current urgent demand for sustainable intelligent systems.
 
-
+### Presentation slides & meeting notes
+- Kindly upload your presentation slides to this Google Drive [folder](https://drive.google.com/drive/folders/18EFSCfIbQUeRI87K-hK12WrGjGtDWfmV?usp=sharing).
+- Kindly contribute to the meeting notes in this [folder](https://drive.google.com/drive/folders/1WmJDlW6Zuz8PfGHXixPbiIDBwAZeUZR6?usp=sharing).
 
