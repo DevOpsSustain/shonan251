@@ -1,6 +1,6 @@
 ## Green Intelligence: Sustainable Development and Operations of Intelligent Systems
 
-### Welcome from the organizers
+### A warm welcome from the organizers!
 - Weiyi Shang, University of Waterloo
 - Marin Litoiu, York University
 - Lei Ma, The University of Tokyo
