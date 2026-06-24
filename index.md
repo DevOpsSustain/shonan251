@@ -1,11 +1,44 @@
 ## Green Intelligence: Sustainable Development and Operations of Intelligent Systems
 
-### A warm welcome from the organizers!
-- Weiyi Shang, University of Waterloo
+### A warm welcome from the organizers (in alphabetical order)!
+<!-- 
+- Heng Li, Polytechnique Montréal
 - Marin Litoiu, York University
 - Lei Ma, The University of Tokyo
+- Weiyi Shang, University of Waterloo
 - Luca Traini, University of L’Aquila
-- Heng Li, Polytechnique Montréal
+-->
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com" width="100px;" alt="Heng Li"/><br />
+      <b>Heng Li</b><br />
+      <i>Polytechnique Montréal</i>
+    </td>
+    <td align="center">
+      <img src="https://github.com" width="100px;" alt="Marin Litoiu"/><br />
+      <b>Marin Litoiu</b><br />
+      <i>York University</i>
+    </td>
+    <td align="center">
+      <img src="https://github.com" width="100px;" alt="Lei Ma"/><br />
+      <b>Lei Ma</b><br />
+      <i>University of Tokyo</i>
+    </td>
+    <td align="center">
+      <img src="https://github.com" width="100px;" alt="Weiyi Shang"/><br />
+      <b>Weiyi Shang</b><br />
+      <i>University of Waterloo</i>
+    </td>
+    <td align="center">
+      <img src="https://github.com" width="100px;" alt="Heng Li"/><br />
+      <b>Luca Traini</b><br />
+      <i>University of L’Aquila</i>
+    </td>
+  </tr>
+</table>
+
 
 ### Meeting goal
 
