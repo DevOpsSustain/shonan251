@@ -50,7 +50,7 @@ The goal of the meeting is to bring together software engineering, performance a
 - Kindly upload your presentation slides to this Google Drive [folder](https://drive.google.com/drive/folders/18EFSCfIbQUeRI87K-hK12WrGjGtDWfmV?usp=sharing).
 - Kindly contribute to the meeting notes in this [folder](https://drive.google.com/drive/folders/1WmJDlW6Zuz8PfGHXixPbiIDBwAZeUZR6?usp=sharing).
 
-### Participants
+### Participants (in alphabetical order)
 | Name                        | Organization                                             |
 | --------------------------- | -------------------------------------------------------- |
 | Anas Bouziane               | Polytechnique Montréal                                   |
