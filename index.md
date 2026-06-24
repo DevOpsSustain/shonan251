@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com" width="100px;" alt="Heng Li"/><br />
+      <img src="assets/HengLi.jpg" width="100px;" alt="Heng Li"/><br />
       <b>Heng Li</b><br />
       <i>Polytechnique Montréal</i>
     </td>
