@@ -84,3 +84,5 @@ The goal of the meeting is to bring together software engineering, performance a
 | Katinka Wolter              | Freie Universitat Berlin                                 |
 | Jinqiu Yang                 | Concordia University                                     |
 | Derui Zhu                   | Rochester Institute of Technology                        |
+
+### Tentative program
