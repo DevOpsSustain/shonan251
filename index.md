@@ -52,57 +52,57 @@ The goal of the meeting is to bring together software engineering, performance a
 
 ## Participants (in alphabetical order)
 
-| Name                        | Organization                                             |
-| --------------------------- | -------------------------------------------------------- |
-| Anas Bouziane               | Polytechnique Montréal                                   |
-| Tse-Hsun Chen               | Concordia University                                     |
-| Jinfu Chen                  | Wuhan University                                         |
-| Ruzanna Chitchyan           | University of Bristol                                    |
-| Vittorio Cortellessa        | University of L’Aquila                                   |
-| Istvan David                | McMaster University                                      |
-| Yi Ding                     | Purdue University                                        |
-| Marios Fokaefs              | York University                                          |
-| Gregory Gay                 | Chalmers University of Technology, Göteborgs Universitet |
-| Mohammad Hamdaqa            | Polytechnique Montréal                                   |
-| Yuheng Huang                | The University of Tokyo                                  |
-| Philipp Leitner             | Chalmers \| University of Gothenburg,                    |
-| Heng Li                     | Polytechnique Montréal                                   |
-| Lizhi Liao                  | University of Guelph                                     |
-| Marin Litoiu                | York University                                          |
-| Lei Ma                      | The University of Tokyo                                  |
-| Fumio Machida               | University of Tsukuba                                    |
-| Silverio Martínez-Fernández | Universitat Politècnica de Catalunya                     |
-| Maximilian Meissner         | University of Wuerzburg                                  |
-| Naouel Moha                 | École de technologie supérieure                          |
-| Birgit Penzenstadler        | Chalmers Technical University and Gothenburg University  |
-| Enrique Barba Roque         | TU Delft                                                 |
-| June Sallou                 | Wageningen University & Resarch                          |
-| Weiyi Shang                 | University of Waterloo                                   |
-| Shin Hwei Tan               | Concordia University                                     |
-| Luca Traini                 | University of L’Aquila                                   |
-| Michele Tucci               | University of L’Aquila                                   |
-| Lili Wei                    | McGill University                                        |
-| Katinka Wolter              | Freie Universitat Berlin                                 |
-| Jinqiu Yang                 | Concordia University                                     |
-| Derui Zhu                   | Rochester Institute of Technology                        |
-
-## Tentative program
-
-| Sunday 30 August |                                                                                            |
-| ---------------- | ------------------------------------------------------------------------------------------ |
-| 15:00 onwards    | Check-in                                                                                   |
-| 19:00-21:00      | Welcome Banquet                                                                            |
-|                  |                                                                                            |
-| **Monday 31 August** | **Theme: Introduction**                                                                        |
-| 8:30-9:00        | Pre-meeting with Shonan staff                                                              |
-| 9:00-9:10        | Introduction movie of NII Shonan Meeting                                                   |
-| 9:10-10:30       | 2-min participant introduction (one slide): reserach interest & proposed discussion topics |
-| 10:30-11:00      | Break                                                                                      |
-| 11:00-12:00      | Invited presentations & discussions (2 presentations)                                      |
-| 12:00-13:30      | Lunch                                                                                      |
-| 13:30-14:00      | Group Photo Shooting                                                                       |
-| 14:00-15:30      | Invited presentations & discussions (3 presentations)                                      |
-| 15:30-16:00      | Break                                                                                      |
-| 16:00-17:30      | Invited presentations & discussions (3 presentations)                                      |
-| 17:30-18:00      | Wrap-up of first day                                                                       |
-| 18:00-19:30      | Dinner                                                                                     |
+| Data/Time             | Theme/Session                                                                                                                       |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| __Sunday 30 August__      | __Arrival__                                                                                                                             |
+| 15:00 onwards         | Check-in                                                                                                                            |
+| 19:00-21:00           | Welcome Banquet                                                                                                                     |
+|                       |                                                                                                                                     |
+| Monday 31 August      | Day 1: Introduction                                                                                                                 |
+| 8:30-9:00             | Pre-meeting with Shonan staff                                                                                                       |
+| 9:00-9:10             | Introduction movie of NII Shonan Meeting                                                                                            |
+| 9:10-10:30            | 2-min participant introduction (one slide): reserach interest & proposed discussion topics                                          |
+| 10:30-11:00           | Break                                                                                                                               |
+| 11:00-12:00           | Invited presentations & discussions (2 presentations)                                                                               |
+| 12:00-13:30           | Lunch                                                                                                                               |
+| 13:30-14:00           | Group Photo Shooting                                                                                                                |
+| 14:00-15:30           | Invited presentations & discussions (3 presentations)                                                                               |
+| 15:30-16:00           | Break                                                                                                                               |
+| 16:00-17:30           | Invited presentations & discussions (3 presentations)                                                                               |
+| 17:30-18:00           | Wrap-up of Day 1                                                                                                                    |
+| 18:00-19:30           | Dinner                                                                                                                              |
+|                       |                                                                                                                                     |
+| __Tuesday 1 September__   | __Day 2: Exploration__                                                                                                                  |
+| 9:00-10:30            | Definition of an initial set of topics for the discussion in the sub-groups                                                         |
+| 10:30-11:00           | Break                                                                                                                               |
+| 11:00-12:00           | Discussion of the initial selected topics in sub-groups (exploration phase)                                                         |
+| 12:00-13:30           | Lunch                                                                                                                               |
+| 13:30-15:00           | Discussion of the initial selected topics in sub-groups (exploration phase)                                                         |
+| 15:00-15:30           | Summary of the discussions of sub-groups                                                                                            |
+| 15:30-16:00           | Break                                                                                                                               |
+| 16:00-17:00           | Outlining a research roadmap based on the explorations                                                                              |
+| 17:00-18:00           | Selection of a restricted set of topics to be discussed in the deepening phase (each participant is allocated to a specific topic). |
+|                       |                                                                                                                                     |
+| __Wednesday 2 September__ | __Day 3: Deepening & excursion__                                                                                                        |
+| 9:00-10:30            | Discussion of the selected topics in sub-groups (deepening phase)                                                                   |
+| 10:30-11:00           | Break                                                                                                                               |
+| 11:00-12:00           | Discussion of the selected topics in sub-groups (deepening phase)                                                                   |
+| 12:00-13:30           | Lunch                                                                                                                               |
+| 13:30-18:00           | Excursion (Visiting Kenchoji Temple, learning about “Zazen”)                                                                        |
+| 18:00-21:00           | Main Banquet                                                                                                                        |
+|                       |                                                                                                                                     |
+| __Thursday 3 September__  | __Day 4: Development__                                                                                                                  |
+| 9:00-10:30            | Discussion of the selected topics in sub-groups (deepening phase)                                                                   |
+| 10:30-11:00           | Break                                                                                                                               |
+| 11:00-12:00           | Presentations of the results of the individual sub-groups                                                                           |
+| 12:00-13:30           | Lunch                                                                                                                               |
+| 13:30-15:30           | Redaction (e.g., vision paper, book proposal) or development (e.g., tool prototype) in sub-groups                                   |
+| 15:30-16:00           | Break                                                                                                                               |
+| 16:00-17:30           | Redaction (e.g., vision paper, book proposal) or development (e.g., tool prototype) in sub-groups                                   |
+| 17:30-18:00           | Wrap-up of Day 4                                                                                                                    |
+|                       |                                                                                                                                     |
+| __Friday 4 September__    | __Day 5: Conclusion__                                                                                                                   |
+| 9:00-10:30            | Final presentation of sub-group work & discussion of lessons learned                                                                |
+| 10:30-11:00           | Break                                                                                                                               |
+| 11:00-12:00           | Final planning of future work & wrap-up                                                                                             |
+| 12:00-13:30           | Lunch and end of meeting                                                                                                            |
