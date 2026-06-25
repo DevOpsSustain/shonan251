@@ -1,6 +1,6 @@
 ## Green Intelligence: Sustainable Development and Operations of Intelligent Systems
 
-## A warm welcome from the organizers (in alphabetical order)!
+## A warm welcome from the organizers (in alphabetical order)
 <!-- 
 - Heng Li, Polytechnique Montréal
 - Marin Litoiu, York University
