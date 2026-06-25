@@ -94,7 +94,7 @@ The goal of the meeting is to bring together software engineering, performance a
 | 15:00 onwards         | Check-in                                                                                                                            |
 | 19:00-21:00           | Welcome Banquet                                                                                                                     |
 |                       |                                                                                                                                     |
-| Monday 31 August      | Day 1: Introduction                                                                                                                 |
+| __Monday 31 August__      | __Day 1: Introduction__                                                                                                                 |
 | 8:30-9:00             | Pre-meeting with Shonan staff                                                                                                       |
 | 9:00-9:10             | Introduction movie of NII Shonan Meeting                                                                                            |
 | 9:10-10:30            | 2-min participant introduction (one slide): reserach interest & proposed discussion topics                                          |
