@@ -86,6 +86,40 @@ The goal of the meeting is to bring together software engineering, performance a
 | Jinqiu Yang                 | Concordia University                                     |
 | Derui Zhu                   | Rochester Institute of Technology                        |
 
+Name                        | Organization                                            
+--------------------------- | --------------------------------------------------------
+Anas Bouziane               | Polytechnique Montréal                                  
+Tse-Hsun Chen               | Concordia University                                    
+Jinfu Chen                  | Wuhan University                                        
+Ruzanna Chitchyan           | University of Bristol                                   
+Vittorio Cortellessa        | University of L’Aquila                                  
+Istvan David                | McMaster University                                     
+Yi Ding                     | Purdue University                                       
+Marios Fokaefs              | York University                                         
+Gregory Gay                 | Chalmers University of Technology, Göteborgs Universitet
+Mohammad Hamdaqa            | Polytechnique Montréal                                  
+Yuheng Huang                | The University of Tokyo                                 
+Philipp Leitner             | Chalmers \| University of Gothenburg,                   
+Heng Li                     | Polytechnique Montréal                                  
+Lizhi Liao                  | University of Guelph                                    
+Marin Litoiu                | York University                                         
+Lei Ma                      | The University of Tokyo                                 
+Fumio Machida               | University of Tsukuba                                   
+Silverio Martínez-Fernández | Universitat Politècnica de Catalunya                    
+Maximilian Meissner         | University of Wuerzburg                                 
+Naouel Moha                 | École de technologie supérieure                         
+Birgit Penzenstadler        | Chalmers Technical University and Gothenburg University 
+Enrique Barba Roque         | TU Delft                                                
+June Sallou                 | Wageningen University & Resarch                         
+Weiyi Shang                 | University of Waterloo                                  
+Shin Hwei Tan               | Concordia University                                    
+Luca Traini                 | University of L’Aquila                                  
+Michele Tucci               | University of L’Aquila                                  
+Lili Wei                    | McGill University                                       
+Katinka Wolter              | Freie Universitat Berlin                                
+Jinqiu Yang                 | Concordia University                                    
+Derui Zhu                   | Rochester Institute of Technology                       
+
 ## Tentative program
 
 | Data/Time             | Theme/Session                                                                                                                       |
