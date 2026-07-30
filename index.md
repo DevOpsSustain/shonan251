@@ -63,7 +63,7 @@ The goal of the meeting is to bring together software engineering, performance a
 | 9:00-9:10             | Introduction movie of NII Shonan Meeting                                                                                            |
 | 9:10-10:30            | 2-min participant introduction (one slide): research interest & proposed discussion topics                                          |
 | 10:30-11:00           | Break                                                                                                                               |
-| 11:00-12:00           | Presentations & discussions: (Birgit Penzenstadler, Yi Ding)                                                                              |
+| 11:00-12:00           | Presentations & discussions (Birgit Penzenstadler, Yi Ding)                                                                              |
 | 12:00-13:30           | Lunch                                                                                                                               |
 | 13:30-14:00           | Group Photo Shooting                                                                                                                |
 | 14:00-15:30           | Presentations & discussions (Katinka Wolter, Philipp Leitner, Marios Fokaefs)                                                                               |
