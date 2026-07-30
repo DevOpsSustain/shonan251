@@ -113,7 +113,6 @@ The goal of the meeting is to bring together software engineering, performance a
 | --------------------------- | -------------------------------------------------------- |
 | Anas Bouziane               | Polytechnique Montréal                                   |
 | Tse-Hsun Chen               | Concordia University                                     |
-| Jinfu Chen                  | Wuhan University                                         |
 | Ruzanna Chitchyan           | University of Bristol                                    |
 | Vittorio Cortellessa        | University of L’Aquila                                   |
 | Istvan David                | McMaster University                                      |
@@ -122,6 +121,7 @@ The goal of the meeting is to bring together software engineering, performance a
 | Gregory Gay                 | Chalmers University of Technology, Göteborgs Universitet |
 | Mohammad Hamdaqa            | Polytechnique Montréal                                   |
 | Yuheng Huang                | The University of Tokyo                                  |
+| Yutaro Kashiwa              | Nara Institute of Science and Technology (NAIST)         |
 | Philipp Leitner             | Chalmers \| University of Gothenburg,                    |
 | Heng Li                     | Polytechnique Montréal                                   |
 | Lizhi Liao                  | University of Guelph                                     |
