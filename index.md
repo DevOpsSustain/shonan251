@@ -97,14 +97,14 @@ The goal of the meeting is to bring together software engineering, performance a
 | __Monday 31 August__      | __Day 1: Introduction__                                                                                                                 |
 | 8:30-9:00             | Pre-meeting with Shonan staff                                                                                                       |
 | 9:00-9:10             | Introduction movie of NII Shonan Meeting                                                                                            |
-| 9:10-10:30            | 2-min participant introduction (one slide): reserach interest & proposed discussion topics                                          |
+| 9:10-10:30            | 2-min participant introduction (one slide): research interest & proposed discussion topics                                          |
 | 10:30-11:00           | Break                                                                                                                               |
-| 11:00-12:00           | Invited presentations & discussions (2 presentations)                                                                               |
+| 11:00-12:00           | Presentations & discussions: (Birgit Penzenstadler, Yi Ding)                                                                              |
 | 12:00-13:30           | Lunch                                                                                                                               |
 | 13:30-14:00           | Group Photo Shooting                                                                                                                |
-| 14:00-15:30           | Invited presentations & discussions (3 presentations)                                                                               |
+| 14:00-15:30           | Presentations & discussions (Katinka Wolter, Philipp Leitner, Marios Fokaefs)                                                                               |
 | 15:30-16:00           | Break                                                                                                                               |
-| 16:00-17:30           | Invited presentations & discussions (3 presentations)                                                                               |
+| 16:00-17:30           | Presentations & discussions (Ruzanna Chitchyan, Mohammad Hamdaqa, Maximilian Meißner)                                                                               |
 | 17:30-18:00           | Wrap-up of Day 1                                                                                                                    |
 | 18:00-19:30           | Dinner                                                                                                                              |
 |                       |                                                                                                                                     |
