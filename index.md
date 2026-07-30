@@ -48,43 +48,7 @@ The goal of the meeting is to bring together software engineering, performance a
 
 ## Presentation slides & meeting notes
 - Kindly upload your presentation slides to this Google Drive [folder](https://drive.google.com/drive/folders/18EFSCfIbQUeRI87K-hK12WrGjGtDWfmV?usp=sharing).
-- Kindly contribute to the meeting notes in this [folder](https://drive.google.com/drive/folders/1WmJDlW6Zuz8PfGHXixPbiIDBwAZeUZR6?usp=sharing).
-
-## Participants (in alphabetical order)
-
-| Name                        | Organization                                             |
-| --------------------------- | -------------------------------------------------------- |
-| Anas Bouziane               | Polytechnique Montréal                                   |
-| Tse-Hsun Chen               | Concordia University                                     |
-| Jinfu Chen                  | Wuhan University                                         |
-| Ruzanna Chitchyan           | University of Bristol                                    |
-| Vittorio Cortellessa        | University of L’Aquila                                   |
-| Istvan David                | McMaster University                                      |
-| Yi Ding                     | Purdue University                                        |
-| Marios Fokaefs              | York University                                          |
-| Gregory Gay                 | Chalmers University of Technology, Göteborgs Universitet |
-| Mohammad Hamdaqa            | Polytechnique Montréal                                   |
-| Yuheng Huang                | The University of Tokyo                                  |
-| Philipp Leitner             | Chalmers \| University of Gothenburg,                    |
-| Heng Li                     | Polytechnique Montréal                                   |
-| Lizhi Liao                  | University of Guelph                                     |
-| Marin Litoiu                | York University                                          |
-| Lei Ma                      | The University of Tokyo                                  |
-| Fumio Machida               | University of Tsukuba                                    |
-| Silverio Martínez-Fernández | Universitat Politècnica de Catalunya                     |
-| Maximilian Meissner         | University of Wuerzburg                                  |
-| Naouel Moha                 | École de technologie supérieure                          |
-| Birgit Penzenstadler        | Chalmers Technical University and Gothenburg University  |
-| Enrique Barba Roque         | TU Delft                                                 |
-| June Sallou                 | Wageningen University & Resarch                          |
-| Weiyi Shang                 | University of Waterloo                                   |
-| Shin Hwei Tan               | Concordia University                                     |
-| Luca Traini                 | University of L’Aquila                                   |
-| Michele Tucci               | University of L’Aquila                                   |
-| Lili Wei                    | McGill University                                        |
-| Katinka Wolter              | Freie Universitat Berlin                                 |
-| Jinqiu Yang                 | Concordia University                                     |
-| Derui Zhu                   | Rochester Institute of Technology                        |                  
+- Kindly contribute to the meeting notes in this [folder](https://drive.google.com/drive/folders/1WmJDlW6Zuz8PfGHXixPbiIDBwAZeUZR6?usp=sharing).          
 
 ## Tentative program
 
@@ -142,3 +106,39 @@ The goal of the meeting is to bring together software engineering, performance a
 | 10:30-11:00           | Break                                                                                                                               |
 | 11:00-12:00           | Final planning of future work & wrap-up                                                                                             |
 | 12:00-13:30           | Lunch and end of meeting                                                                                                            |
+
+## Participants (in alphabetical order)
+
+| Name                        | Organization                                             |
+| --------------------------- | -------------------------------------------------------- |
+| Anas Bouziane               | Polytechnique Montréal                                   |
+| Tse-Hsun Chen               | Concordia University                                     |
+| Jinfu Chen                  | Wuhan University                                         |
+| Ruzanna Chitchyan           | University of Bristol                                    |
+| Vittorio Cortellessa        | University of L’Aquila                                   |
+| Istvan David                | McMaster University                                      |
+| Yi Ding                     | Purdue University                                        |
+| Marios Fokaefs              | York University                                          |
+| Gregory Gay                 | Chalmers University of Technology, Göteborgs Universitet |
+| Mohammad Hamdaqa            | Polytechnique Montréal                                   |
+| Yuheng Huang                | The University of Tokyo                                  |
+| Philipp Leitner             | Chalmers \| University of Gothenburg,                    |
+| Heng Li                     | Polytechnique Montréal                                   |
+| Lizhi Liao                  | University of Guelph                                     |
+| Marin Litoiu                | York University                                          |
+| Lei Ma                      | The University of Tokyo                                  |
+| Fumio Machida               | University of Tsukuba                                    |
+| Silverio Martínez-Fernández | Universitat Politècnica de Catalunya                     |
+| Maximilian Meissner         | University of Wuerzburg                                  |
+| Naouel Moha                 | École de technologie supérieure                          |
+| Birgit Penzenstadler        | Chalmers Technical University and Gothenburg University  |
+| Enrique Barba Roque         | TU Delft                                                 |
+| June Sallou                 | Wageningen University & Resarch                          |
+| Weiyi Shang                 | University of Waterloo                                   |
+| Shin Hwei Tan               | Concordia University                                     |
+| Luca Traini                 | University of L’Aquila                                   |
+| Michele Tucci               | University of L’Aquila                                   |
+| Lili Wei                    | McGill University                                        |
+| Katinka Wolter              | Freie Universitat Berlin                                 |
+| Jinqiu Yang                 | Concordia University                                     |
+| Derui Zhu                   | Rochester Institute of Technology                        |        
