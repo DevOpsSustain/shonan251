@@ -66,9 +66,9 @@ The goal of the meeting is to bring together software engineering, performance a
 | 11:00-12:00           | Presentations & discussions (Birgit Penzenstadler, Yi Ding)                                                                              |
 | 12:00-13:30           | Lunch                                                                                                                               |
 | 13:30-14:00           | Group Photo Shooting                                                                                                                |
-| 14:00-15:30           | Presentations & discussions (Katinka Wolter, Philipp Leitner, Marios Fokaefs)                                                                               |
+| 14:00-15:30           | Presentations & discussions (Katinka Wolter, Philipp Leitner, Mohammad Hamdaqa)                                                                               |
 | 15:30-16:00           | Break                                                                                                                               |
-| 16:00-17:30           | Presentations & discussions (Ruzanna Chitchyan, Mohammad Hamdaqa, Maximilian Meißner)                                                                               |
+| 16:00-17:30           | Presentations & discussions (Ruzanna Chitchyan, Maximilian Meißner, Marios Fokaefs)                                                                               |
 | 17:30-18:00           | Wrap-up of Day 1                                                                                                                    |
 | 18:00-19:30           | Dinner                                                                                                                              |
 |                       |                                                                                                                                     |
