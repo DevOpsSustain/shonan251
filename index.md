@@ -60,7 +60,7 @@ The goal of the meeting is to bring together software engineering, performance a
 |                       |                                                                                                                                     |
 | __Monday 31 August__      | __Day 1: Introduction__                                                                                                                 |
 | 8:30-9:00             | Pre-meeting with Shonan staff                                                                                                       |
-| 9:00-9:10             | Introduction movie of NII Shonan Meeting                                                                                            |
+| 9:00-9:10             | Introduction movie of NII Shonan Meeting ([Link](https://youtu.be/k2Zy5xZlIlA?si=VyzZT78Z07cyxI2N&t=18))                                                                                            |
 | 9:10-10:30            | 2-min participant introduction (one slide): research interest & proposed discussion topics                                          |
 | 10:30-11:00           | Break                                                                                                                               |
 | 11:00-12:00           | Presentations & discussions (Birgit Penzenstadler, Yi Ding)                                                                              |
