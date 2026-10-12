@@ -117,7 +117,6 @@ The goal of the meeting is to bring together software engineering, performance a
 | Tse-Hsun Chen               | Concordia University                                     |
 | Ruzanna Chitchyan           | University of Bristol                                    |
 | Vittorio Cortellessa        | University of L’Aquila                                   |
-| Istvan David                | McMaster University                                      |
 | Yi Ding                     | Purdue University                                        |
 | Marios Fokaefs              | York University                                          |
 | Gregory Gay                 | Chalmers University of Technology, Göteborgs Universitet |
@@ -135,7 +134,6 @@ The goal of the meeting is to bring together software engineering, performance a
 | Naouel Moha                 | École de technologie supérieure                          |
 | Birgit Penzenstadler        | Chalmers Technical University and Gothenburg University  |
 | Enrique Barba Roque         | TU Delft                                                 |
-| June Sallou                 | Wageningen University & Resarch                          |
 | Weiyi Shang                 | University of Waterloo                                   |
 | Shin Hwei Tan               | Concordia University                                     |
 | Luca Traini                 | University of L’Aquila                                   |
