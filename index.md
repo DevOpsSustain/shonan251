@@ -125,7 +125,6 @@ The goal of the meeting is to bring together software engineering, performance a
 | Yutaro Kashiwa              | Nara Institute of Science and Technology (NAIST)         |
 | Philipp Leitner             | Chalmers \| University of Gothenburg,                    |
 | Heng Li                     | Polytechnique Montréal                                   |
-| Lizhi Liao                  | University of Guelph                                     |
 | Marin Litoiu                | York University                                          |
 | Lei Ma                      | The University of Tokyo                                  |
 | Fumio Machida               | University of Tsukuba                                    |
